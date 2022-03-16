@@ -1,6 +1,6 @@
 # VCI Directory Snapshot
 
-This folder contains directory log, snapshot and audit files updated daily from the GitHub action [audit scripts](https://github.com/the-commons-project/vci-directory/blob/main/.github/workflows/vci-directory-audit.yaml):
+This folder contains directory log, snapshot, and audit files updated daily from the GitHub action [audit scripts](https://github.com/the-commons-project/vci-directory/blob/main/.github/workflows/vci-directory-audit.yaml):
 
 * audit-index.csv: contains the IDs and timestamps for the git commits for the files in this folder. It can be used to retrieve specific versions of the directory log, snapshot and audit files.
 
